@@ -1,5 +1,5 @@
-# iap-class
-Welcome to the "Programming with Data" IAP class!
+# practical-programming-with-data
+Welcome to the "Practical Programming with Data" IAP class!
 
 ## Getting Started
 You can clone this repository to your local machine by executing the following at a terminal
@@ -11,23 +11,13 @@ To finish your installation, please look at the "Setup" section below.
 
 ## Logistics
 
-We will have a total of 8 lectures on the following topics:
-1. **Processing**: The relational data model and SQL.
-2. **Pandas and Data Wrangling**: Using the relational model in Python; working with text data.
-3. **Preparation**: Data preparation and cleaning.
-4. **Presentation**: Data visualizations and plotting.
-5. **Prediction**: Introduction to some Machine Learning techniques
-6. **PyTorch**: Introduction to Neural Networks.
-7. **Performance**: Improving data processing performance.
-8. **Parallelism**: Further improving performance through parallelism.
+We will have four sessions, each between 10am-12pm, covering the following topics:
+1. **January 26th**: Introduction and Dealing with Structured Data
+2. **January 27th**: Dealing with Unstructured Data (Text and Images)
+3. **January 28th**: LLMs and RAG
+4. **January 29th**: Choose Your Own Adventure: Set Up a RAG System on Your Own Data
 
-We will also have optional assignments each day: a shorter one over lunch and a longer one overnight. You are free to do these at your own pace, or not at all; they are just meant to give you some practiec with the techniques.
-
-The schedule for each day will be as folllows:
-- **10:00-10:15**: Homework questions from day before
-- **10:15-11:45**: Morning lecture
-- **11:45-12:30**: Lunch and lunch assignment
-- **12:30-14:00**: Afternoon lecture
+Each day will also include lunch following the session.
 
 
 ## Setup
@@ -45,7 +35,7 @@ If this is your first time cloning a repository from GitHub using SSH, you may w
 
 ### Installing prerequisites
 
-In order to complete the assignments included under `assignments/`, you will need to install some prerequisites and create a Python virtual environment. You can do this by running the following commands:
+In order follow along, you will need to install some prerequisites and create a Python virtual environment. You can do this by running the following commands:
 
 ``` 
 chmod +x setup.sh
