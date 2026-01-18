@@ -1,0 +1,4 @@
+From (8), it is clear that TCP Hybla performance does not depend on the actual value of RTT, anymore. This observation is conﬁrmed by numerical results reported in Figure 3,where TCP standard and TCP Hybla performance are compared for diﬀerent RTT values,under ideal channel conditions. While the amount of transmitted data in TCP standardconnections decays with the RTT, in TCP Hybla all the connections present the sameperformance of the reference one.
+
+
+TCP Hybla (with the SACK option) proves to be very eﬀective in counteracting the eﬀects of long RTT and congestion losses; substantial performance independence of the RTT is achieved and the wireless connection is no longer penalized.
