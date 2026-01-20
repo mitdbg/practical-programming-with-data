@@ -1,0 +1,4 @@
+{
+    "llm": "llama3.1:8b",
+    "embedding_model": "bge-m3:latest"
+}
